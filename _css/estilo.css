@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+/*@import url('https://fonts.googleapis.com/css?family=Titillium+Web');*/
 @font-face {
     font-family: 'FonteLogo';
     src: url(../_fonts/bubblegum-sans-regular.otf)
@@ -173,7 +173,7 @@ table#tabelaspec caption {
 table#tabelaspec caption span {
     display: block; /*Mesmo sem este, funciona*/
     float: right;
-    color: #00000;
+    color: #000;
     font-size: 8pt;
     margin-top: 10px;
 }
